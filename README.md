@@ -1,4 +1,4 @@
-# fedora-backgrounds
+# gnome-backgrounds
 
 A selection of backgrounds that change according to type. 
 
